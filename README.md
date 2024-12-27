@@ -12,7 +12,7 @@ I am a dedicated **Web Developer** with experience in creating responsive websit
 
 
 ## Contact
-- [LinkedIn](www.linkedin.com/in/yassine-bouguarne)  
+- [LinkedIn](https://www.linkedin.com/in/yassine-bouguarne)
 - [Email](mailto:yassine.bougarne01@gmail.com)  
 
 Feel free to reach out if you have any questions or collaboration ideas!
