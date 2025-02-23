@@ -5,7 +5,7 @@ I am a dedicated **Web Developer** with experience in creating responsive websit
 
 ## Skills
 - 🖥️ **Programming Languages:** HTML, CSS, JavaScript, PHP, Python, SQL  
-- 📚 **Frameworks & Libraries:** React, Bootstrap  
+- 📚 **Frameworks & Libraries:** React, Bootstrap, TailwindCSS  
 - 🛠️ **Tools:** Git, VS Code, Figma  
 
 ## Contact
