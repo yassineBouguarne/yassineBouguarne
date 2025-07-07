@@ -4,8 +4,8 @@
 I am a dedicated **Web Developer** with experience in creating responsive websites and dynamic web applications. I am always striving to enhance my skills and stay up-to-date with the latest technologies. 🚀
 
 ## Skills
-- 🖥️ **Programming Languages:** HTML, CSS, JavaScript, PHP, Python, SQL  
-- 📚 **Frameworks & Libraries:** React, Bootstrap, TailwindCSS  
+- 🖥️ **Programming Languages:** HTML, CSS, JavaScript, PHP, Java, Python, SQL  
+- 📚 **Frameworks & Libraries:** React, Laravel, Bootstrap, TailwindCSS  
 - 🛠️ **Tools:** Git, VS Code, Figma  
 
 ## Contact
