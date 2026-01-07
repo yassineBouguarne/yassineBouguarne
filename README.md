@@ -1,12 +1,12 @@
 # Hi, I'm Yassine Bouguarne 👋
 
 ## About Me  
-I am a dedicated **Web Developer** with experience in creating responsive websites and dynamic web applications. I am always striving to enhance my skills and stay up-to-date with the latest technologies. 🚀
+I am a dedicated **Full Stack Developer** with experience in creating responsive websites and dynamic web & mobile applications. I am always striving to enhance my skills and stay up-to-date with the latest technologies. 🚀
 
 ## Skills
-- 🖥️ **Programming Languages:** HTML, CSS, JavaScript, PHP, Java, Python, SQL  
-- 📚 **Frameworks & Libraries:** React, Laravel, Bootstrap, TailwindCSS  
-- 🛠️ **Tools:** Git, VS Code, Figma  
+- 🖥️ **Programming Languages:** HTML, CSS, JavaScript, PHP, Java, Python, SQL, MongoDB
+- 📚 **Frameworks & Libraries:** React js, React Native, Laravel, Bootstrap, TailwindCSS  
+- 🛠️ **Tools:** Git, VS Code, Figma, Postman
 
 ## Contact
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-bouguarne) 
